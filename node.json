@@ -15,7 +15,7 @@
 			"LISTENING_PORT": "30303",
 			"INSTANCE_NAME": "node1",
 			"CONTACT_DETAILS": "",
-			"WS_SERVER": "http://localhost:3000",
+			"WS_SERVER": "http://localhost:8091",
 			"WS_SECRET": "Hello",
 			"VERBOSITY": 2
 		}
@@ -36,7 +36,7 @@
 			"LISTENING_PORT": "30303",
 			"INSTANCE_NAME": "node2",
 			"CONTACT_DETAILS": "",
-			"WS_SERVER": "http://localhost:3000",
+			"WS_SERVER": "http://localhost:8091",
 			"WS_SECRET": "Hello",
 			"VERBOSITY": 2
 		}
@@ -57,7 +57,7 @@
 			"LISTENING_PORT": "30303",
 			"INSTANCE_NAME": "node3",
 			"CONTACT_DETAILS": "",
-			"WS_SERVER": "http://localhost:3000",
+			"WS_SERVER": "http://localhost:8091",
 			"WS_SECRET": "Hello",
 			"VERBOSITY": 2
 		}
@@ -78,7 +78,7 @@
 			"LISTENING_PORT": "30303",
 			"INSTANCE_NAME": "node4",
 			"CONTACT_DETAILS": "",
-			"WS_SERVER": "http://localhost:3000",
+			"WS_SERVER": "http://localhost:8091",
 			"WS_SECRET": "Hello",
 			"VERBOSITY": 2
 		}
@@ -99,7 +99,7 @@
 			"LISTENING_PORT": "30303",
 			"INSTANCE_NAME": "node5",
 			"CONTACT_DETAILS": "",
-			"WS_SERVER": "http://localhost:3000",
+			"WS_SERVER": "http://localhost:8091",
 			"WS_SECRET": "Hello",
 			"VERBOSITY": 2
 		}
